@@ -19,11 +19,13 @@ var quotes = [
     },
     {
         quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-        source: "Winston Churchill"
+        source: "Winston Churchill",
+        year: 1921
     },
     {
         quote: "The only thing necessary for the triumph of evil is for good men to do nothing.",
-        source: "Edmund Burke"
+        source: "Edmund Burke",
+        year: 1989
     },
     {
         quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
